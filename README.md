@@ -8,6 +8,7 @@ I've been learn programming since couple months ago and i'm trying to iniciate c
 
 *   🌍  Osasco, Brazil
 *   🧠  learning Python
+*   👀  Cursando o Ensino Médio
    
    ### Skills 
 <p align="left">
