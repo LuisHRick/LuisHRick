@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Atualmente somente focado em trabalhar
+  💌 Indisponível para trabalho
 </p>
 
 <p align="left">
