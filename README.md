@@ -1,7 +1,9 @@
+## ❤ Olá, me chamo <strong>Rick!</strong>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Luis Henrique, sou um <strong>Estudante de programação</strong>.<br> com o objetivo de me tronar um programador fullstack
+  sou um <strong>Estudante de programação</strong>.<br> com o objetivo de me tronar um programador fullstack
   Estou cursando o Ensino Médio
 </p>
 
