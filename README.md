@@ -1,4 +1,4 @@
-## ❤ Olá, me chamo <strong>Rick!</strong>
+## 🤎 Olá, me chamo <strong>Rick!</strong>
 
 <img src="https://media2.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=790b7611444e7ddc9b17bd6021eaa63c4e697cf1c3b84a0b&rid=giphy.gif&ct=s" min-width="400px" max-width="400px" width="200px" align="right">
 
