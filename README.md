@@ -1,26 +1,23 @@
-Hi 👋 My name is Luis H.
-========================
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Dev. Student
-------------
-
-I've been learn programming since couple months ago and i'm trying to iniciate carrear as a web developer.
-
-*   🌍  Osasco, Brazil
-*   🧠  learning Python
-*   👀  Cursando o Ensino Médio
-   
-   ### Skills 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<p align="left"> 
+  Me chamo Luis Henrique, sou um <strong>Estudante de programação</strong>.<br> com o objetivo de me tronar um programador fullstack
+  Estou cursando o Ensino Médio
 </p>
-                    
-   ### Socials
-                  
-                  
-   <p align="left">
-   <a href="https://www.github.com/LuisHRick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
-                      
- 
-   
-  
+
+<p align="left">
+  🐱‍💻 Linguagens: <strong>Python</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong>VScode, Pycharm</strong>
+</p>
+
+<p align="left">
+  💌 Atualmente somente focado em trabalhar
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=henriquesantos20050503@gmail.com" /></a>
+</p>  
