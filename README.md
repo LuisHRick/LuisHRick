@@ -27,6 +27,8 @@
 </p>
 
 
-![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=luishrick&count_private=true&show_icons=true&theme=darcula)
+-----
+
+![Rick's GitHub stats](https://github-readme-stats.vercel.app/api?username=luishrick&count_private=true&show_icons=true&theme=darcula) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luishrick&theme=darcula)
