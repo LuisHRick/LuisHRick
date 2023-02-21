@@ -12,13 +12,13 @@
 -----
 
 <p align="left">
-  🐱‍💻 Linguagens: <strong>Python</strong>
+  🐱‍💻 Linguagens: <strong>Python, JavaScript</strong>
 </p>
 
 
 
 <p align="left">
-  💼 Ferramentas: <strong> VScode, Pycharm</strong>
+  💼 Ferramentas: <strong> VScode</strong>
 </p>
 
 
