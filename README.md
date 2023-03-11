@@ -21,7 +21,7 @@
 
 <img src="https://media2.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=790b7611444e7ddc9b17bd6021eaa63c4e697cf1c3b84a0b&rid=giphy.gif&ct=s" min-width="550px" max-width="600px" width="300px" align="right">
  
-<a href="http://www.github.com/LuisHRick"><img src="https://github-readme-stats.vercel.app/api?username=LuisHRick&show_icons=true&hide=stars,&count_private=true&title_color=f97316&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="LuisHRick's GitHub stats" align="center" width="500"  /></a>
+<a href="http://www.github.com/LuisHRick"><img src="https://github-readme-stats.vercel.app/api?username=LuisHRick&show_icons=true&hide=stars,&count_private=true&title_color=f97316&text_color=ffffff&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="LuisHRick's GitHub stats" align="center" width="510"  /></a>
 
 <a href="http://www.github.com/LuisHRick"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisHRick&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" align="center" /></a>
 
