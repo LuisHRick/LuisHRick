@@ -34,7 +34,7 @@
 
 
 -----
-<img src="https://media.tenor.com/FRn-KmK1r5YAAAAC/cat-work-it.gif" min-width="800px" max-width="400px" width="350px" align="right">
+<img src="https://media.tenor.com/FRn-KmK1r5YAAAAC/cat-work-it.gif" min-width="800px" max-width="400px" width="250px" align="right">
 
 <a href="http://www.github.com/LuisHRick"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisHRick&stroke=ffffff&background=27272a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
